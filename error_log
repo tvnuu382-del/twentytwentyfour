@@ -1,0 +1,8 @@
+[08-Nov-2024 00:46:34 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/commar/public_html/wp-content/themes/twentytwentyfour/patterns/hidden-404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/commar/public_html/wp-content/themes/twentytwentyfour/patterns/hidden-404.php on line 10
+[10-Nov-2024 08:31:36 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/commar/public_html/wp-content/themes/twentytwentyfour/patterns/hidden-404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/commar/public_html/wp-content/themes/twentytwentyfour/patterns/hidden-404.php on line 10
